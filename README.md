@@ -40,3 +40,6 @@ To run these notebooks, you'll need to have Python installed along with the foll
 - yfinance
 - matplotlib
 - sqlite3
+
+# Python Challenge
+This challenge consists of python code approach for building recommendation system.
